@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myPlugin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="myPlugin-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="myPlugin:war exploded" />
+    </root>
+  </artifact>
+</component>
